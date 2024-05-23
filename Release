@@ -1,0 +1,12 @@
+Origin: Autoios Pro v10 Repo
+Label: Autoios Pro v10 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Autoios Pro v10 for iDevice Model 10.x - 12.2 & 12.4 & Checkra1n Jailbreaks
+MD5Sum:
+ 7e626e7108343282cb22ecbaf5706a68 16710 Packages
+ 7ba38edc45ce5aed3833970ba38df021 4039 Packages.bz2
+ 92a855f0f5e31232c61560ab468af752 3704 Packages.gz
